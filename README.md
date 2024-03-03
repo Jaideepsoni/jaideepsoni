@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Jaideep Soni and I'm a Web Developer & Data Analyst</h2>
+<h1 align="center">Hi 👋! My name is Jaideep Soni and I'm a Web Developer & Data Analyst</h1>
 
 ###
 
