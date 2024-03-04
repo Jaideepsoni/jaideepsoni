@@ -87,8 +87,4 @@
 
 <br clear="both">
 
-## Snake Image
-![snake gif](https://github.com/jaideepsoni/jaideepsoni/blob/output/github-contribution-grid-snake.gif)
-
-
 ###
