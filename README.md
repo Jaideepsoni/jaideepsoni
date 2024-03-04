@@ -87,6 +87,8 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/jaideepsoni/jaideepsoni/output/snake.svg" alt="Snake animation" />
+## Snake Image
+![snake gif](https://github.com/jaideepsoni/jaideepsoni/blob/output/github-contribution-grid-snake.gif)
+
 
 ###
